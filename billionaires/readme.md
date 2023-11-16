@@ -21,4 +21,4 @@ A base de dados foram retiradas do [Kaggle](https://www.kaggle.com/).
 
 1. Baixe os arquivos desse repositório;
 2. Baixe o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) OBS: recomendo que baixe o setup e não pela Microsoft Store;
-3. Abra o arquivo bilionarios.pbxi.
+3. Abra o arquivo rankdata.pbix.
